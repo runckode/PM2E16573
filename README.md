@@ -141,7 +141,7 @@ Se ha provisto por Whatsapp al Maestro con todas las instrucciones.
 **Criterios de Evaluación:**
 - [x] Funcionalidad para compartir imágenes con otras aplicaciones.
 - [x] Integración adecuada con las opciones de compartir del sistema operativo.
-
+- [x] A la espera de Microsoft para incrementar el procesamiento debido al error = ##[error]No hosted parallelism has been purchased or granted. To request a free parallelism grant, please fill out the following form https://aka.ms/azpipelines-parallelism-request
 
 
 ---
