@@ -3,7 +3,6 @@
 
 ### Integrantes
 - Irvin Flores 201730020065
-- Erik Torres 201910130073
 
 ### Password del proyecto
 Se ha provisto por Whatsapp al Maestro con todas las instrucciones.
